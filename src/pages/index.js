@@ -20,7 +20,6 @@ export default function Index() {
       <h1 className="text-blue-800 font-bold text-[50px] text-center mt-8 mb-8">
         <Header/>
       </h1>
-
       <div className="flex flex-col md:flex-row gap-6">
         <Customer />
         <Agent />
